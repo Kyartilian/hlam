@@ -1,0 +1,11 @@
+C:\Users\Kyartillian\source\repos\T-I_lab_1\T-I_lab_1\bin\Debug\T-I_lab_1.exe.config
+C:\Users\Kyartillian\source\repos\T-I_lab_1\T-I_lab_1\bin\Debug\T-I_lab_1.exe
+C:\Users\Kyartillian\source\repos\T-I_lab_1\T-I_lab_1\bin\Debug\T-I_lab_1.pdb
+C:\Users\Kyartillian\source\repos\T-I_lab_1\T-I_lab_1\obj\Debug\T-I_lab_1.csproj.AssemblyReference.cache
+C:\Users\Kyartillian\source\repos\T-I_lab_1\T-I_lab_1\obj\Debug\T-I_lab_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kyartillian\source\repos\T-I_lab_1\T-I_lab_1\obj\Debug\T_I_lab_1.Form1.resources
+C:\Users\Kyartillian\source\repos\T-I_lab_1\T-I_lab_1\obj\Debug\T_I_lab_1.Properties.Resources.resources
+C:\Users\Kyartillian\source\repos\T-I_lab_1\T-I_lab_1\obj\Debug\T-I_lab_1.csproj.GenerateResource.cache
+C:\Users\Kyartillian\source\repos\T-I_lab_1\T-I_lab_1\obj\Debug\T-I_lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Kyartillian\source\repos\T-I_lab_1\T-I_lab_1\obj\Debug\T-I_lab_1.exe
+C:\Users\Kyartillian\source\repos\T-I_lab_1\T-I_lab_1\obj\Debug\T-I_lab_1.pdb
