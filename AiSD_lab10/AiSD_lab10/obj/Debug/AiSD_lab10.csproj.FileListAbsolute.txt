@@ -1,0 +1,16 @@
+C:\Users\Kyartillian\source\repos\AiSD_lab10\AiSD_lab10\bin\Debug\AiSD_lab10.exe.config
+C:\Users\Kyartillian\source\repos\AiSD_lab10\AiSD_lab10\bin\Debug\AiSD_lab10.exe
+C:\Users\Kyartillian\source\repos\AiSD_lab10\AiSD_lab10\bin\Debug\AiSD_lab10.pdb
+C:\Users\Kyartillian\source\repos\AiSD_lab10\AiSD_lab10\bin\Debug\MathNet.Numerics.dll
+C:\Users\Kyartillian\source\repos\AiSD_lab10\AiSD_lab10\bin\Debug\System.ValueTuple.dll
+C:\Users\Kyartillian\source\repos\AiSD_lab10\AiSD_lab10\bin\Debug\MathNet.Numerics.xml
+C:\Users\Kyartillian\source\repos\AiSD_lab10\AiSD_lab10\bin\Debug\System.ValueTuple.xml
+C:\Users\Kyartillian\source\repos\AiSD_lab10\AiSD_lab10\obj\Debug\AiSD_lab10.csproj.AssemblyReference.cache
+C:\Users\Kyartillian\source\repos\AiSD_lab10\AiSD_lab10\obj\Debug\AiSD_lab10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kyartillian\source\repos\AiSD_lab10\AiSD_lab10\obj\Debug\AiSD_lab10.Form1.resources
+C:\Users\Kyartillian\source\repos\AiSD_lab10\AiSD_lab10\obj\Debug\AiSD_lab10.Properties.Resources.resources
+C:\Users\Kyartillian\source\repos\AiSD_lab10\AiSD_lab10\obj\Debug\AiSD_lab10.csproj.GenerateResource.cache
+C:\Users\Kyartillian\source\repos\AiSD_lab10\AiSD_lab10\obj\Debug\AiSD_lab10.csproj.CoreCompileInputs.cache
+C:\Users\Kyartillian\source\repos\AiSD_lab10\AiSD_lab10\obj\Debug\AiSD_lab10.csproj.CopyComplete
+C:\Users\Kyartillian\source\repos\AiSD_lab10\AiSD_lab10\obj\Debug\AiSD_lab10.exe
+C:\Users\Kyartillian\source\repos\AiSD_lab10\AiSD_lab10\obj\Debug\AiSD_lab10.pdb
