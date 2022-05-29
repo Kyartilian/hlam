@@ -1,0 +1,11 @@
+C:\Users\Kyartillian\source\repos\AiSD_lab_12\AiSD_lab_12\bin\Debug\AiSD_lab_12.exe.config
+C:\Users\Kyartillian\source\repos\AiSD_lab_12\AiSD_lab_12\bin\Debug\AiSD_lab_12.exe
+C:\Users\Kyartillian\source\repos\AiSD_lab_12\AiSD_lab_12\bin\Debug\AiSD_lab_12.pdb
+C:\Users\Kyartillian\source\repos\AiSD_lab_12\AiSD_lab_12\obj\Debug\AiSD_lab_12.csproj.AssemblyReference.cache
+C:\Users\Kyartillian\source\repos\AiSD_lab_12\AiSD_lab_12\obj\Debug\AiSD_lab_12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kyartillian\source\repos\AiSD_lab_12\AiSD_lab_12\obj\Debug\AiSD_lab_12.Form1.resources
+C:\Users\Kyartillian\source\repos\AiSD_lab_12\AiSD_lab_12\obj\Debug\AiSD_lab_12.Properties.Resources.resources
+C:\Users\Kyartillian\source\repos\AiSD_lab_12\AiSD_lab_12\obj\Debug\AiSD_lab_12.csproj.GenerateResource.cache
+C:\Users\Kyartillian\source\repos\AiSD_lab_12\AiSD_lab_12\obj\Debug\AiSD_lab_12.csproj.CoreCompileInputs.cache
+C:\Users\Kyartillian\source\repos\AiSD_lab_12\AiSD_lab_12\obj\Debug\AiSD_lab_12.exe
+C:\Users\Kyartillian\source\repos\AiSD_lab_12\AiSD_lab_12\obj\Debug\AiSD_lab_12.pdb
